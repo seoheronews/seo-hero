@@ -1,4 +1,4 @@
-# SEO Hero
+# [SEO Hero](https://seoheronews.com/)
 __SEO Hero__ is news site about search engines, search promotion and search engine optimization:
 
 - Google
